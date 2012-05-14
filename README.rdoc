@@ -34,7 +34,7 @@ visiting https://YOUR-SHOP.myshopify.com/admin/api
 
 === Example
 
-    $ rails generate shopify_app edffbb1bb793e2750686e6f4647a384a fed5bb18hde3e2750686e6f4647a781a
+    $ rails generate shopify_app edffbb1bb793e2750686e6f4647a384a fed5bb18hde3e2750686e6f4647a781a read_products,read_orders
 
 This will create a LoginController and a HomeController with their own views.
 
